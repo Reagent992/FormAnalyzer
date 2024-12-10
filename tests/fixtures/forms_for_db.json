@@ -1,0 +1,383 @@
+[
+  {
+    "name": "email_form",
+    "email_field": "email"
+  },
+  {
+    "name": "phone_form",
+    "phone_field": "phone"
+  },
+  {
+    "name": "date_form",
+    "date_field": "date"
+  },
+  {
+    "name": "address_form",
+    "address_field": "text"
+  },
+  {
+    "name": "country_form",
+    "country": "text"
+  },
+  {
+    "name": "city_form",
+    "city": "text"
+  },
+  {
+    "name": "email_phone",
+    "email_field": "email",
+    "phone_field": "phone"
+  },
+  {
+    "name": "email_date",
+    "email_field": "email",
+    "date_field": "date"
+  },
+  {
+    "name": "email_address",
+    "email_field": "email",
+    "address_field": "text"
+  },
+  {
+    "name": "email_country",
+    "email_field": "email",
+    "country": "text"
+  },
+  {
+    "name": "email_city",
+    "email_field": "email",
+    "city": "text"
+  },
+  {
+    "name": "phone_date",
+    "phone_field": "phone",
+    "date_field": "date"
+  },
+  {
+    "name": "phone_address",
+    "phone_field": "phone",
+    "address_field": "text"
+  },
+  {
+    "name": "phone_country",
+    "phone_field": "phone",
+    "country": "text"
+  },
+  {
+    "name": "phone_city",
+    "phone_field": "phone",
+    "city": "text"
+  },
+  {
+    "name": "date_address",
+    "date_field": "date",
+    "address_field": "text"
+  },
+  {
+    "name": "date_country",
+    "date_field": "date",
+    "country": "text"
+  },
+  {
+    "name": "date_city",
+    "date_field": "date",
+    "city": "text"
+  },
+  {
+    "name": "address_country",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "address_city",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "country_city",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_date",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date"
+  },
+  {
+    "name": "email_phone_address",
+    "email_field": "email",
+    "phone_field": "phone",
+    "address_field": "text"
+  },
+  {
+    "name": "email_phone_country",
+    "email_field": "email",
+    "phone_field": "phone",
+    "country": "text"
+  },
+  {
+    "name": "email_phone_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "city": "text"
+  },
+  {
+    "name": "email_date_address",
+    "email_field": "email",
+    "date_field": "date",
+    "address_field": "text"
+  },
+  {
+    "name": "email_date_country",
+    "email_field": "email",
+    "date_field": "date",
+    "country": "text"
+  },
+  {
+    "name": "email_date_city",
+    "email_field": "email",
+    "date_field": "date",
+    "city": "text"
+  },
+  {
+    "name": "email_address_country",
+    "email_field": "email",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "email_address_city",
+    "email_field": "email",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_country_city",
+    "email_field": "email",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "phone_date_address",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text"
+  },
+  {
+    "name": "phone_date_country",
+    "phone_field": "phone",
+    "date_field": "date",
+    "country": "text"
+  },
+  {
+    "name": "phone_date_city",
+    "phone_field": "phone",
+    "date_field": "date",
+    "city": "text"
+  },
+  {
+    "name": "phone_address_country",
+    "phone_field": "phone",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "phone_address_city",
+    "phone_field": "phone",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "phone_country_city",
+    "phone_field": "phone",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "date_address_country",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "date_address_city",
+    "date_field": "date",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "date_country_city",
+    "date_field": "date",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "address_country_city",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_date_address",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text"
+  },
+  {
+    "name": "email_phone_date_country",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "country": "text"
+  },
+  {
+    "name": "email_phone_date_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_address_country",
+    "email_field": "email",
+    "phone_field": "phone",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "email_phone_address_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_country_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_date_address_country",
+    "email_field": "email",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "email_date_address_city",
+    "email_field": "email",
+    "date_field": "date",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_date_country_city",
+    "email_field": "email",
+    "date_field": "date",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_address_country_city",
+    "email_field": "email",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "phone_date_address_country",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "phone_date_address_city",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "phone_date_country_city",
+    "phone_field": "phone",
+    "date_field": "date",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "phone_address_country_city",
+    "phone_field": "phone",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "date_address_country_city",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_date_address_country",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text"
+  },
+  {
+    "name": "email_phone_date_address_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_date_country_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_address_country_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_date_address_country_city",
+    "email_field": "email",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "phone_date_address_country_city",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  },
+  {
+    "name": "email_phone_date_address_country_city",
+    "email_field": "email",
+    "phone_field": "phone",
+    "date_field": "date",
+    "address_field": "text",
+    "country": "text",
+    "city": "text"
+  }
+]
