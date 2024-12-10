@@ -48,10 +48,14 @@
 docker run --name mongodb -p 27017:27017 -d mongodb/mongodb-community-server:latest
 ```
 
-2. Создать **virtual environment** и установить зависимости.
+1. Создать и активировать **virtual environment**, установить зависимости.
 
 ```
 python -m venv .venv
+```
+
+```
+source .venv/bin/activate
 ```
 
 ```
