@@ -15,10 +15,11 @@ from validators import (
 )
 
 app = FastAPI()
+db_client: AsyncIOMotorClient = AsyncIOMotorClient()
 
 
 def get_db() -> AsyncIOMotorCollection:
-    return AsyncIOMotorClient()[DB_NAME][DB_COLLECTION_NAME]
+    return db_client[DB_NAME][DB_COLLECTION_NAME]
 
 
 async def find_appropriate_form(
